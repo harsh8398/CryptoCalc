@@ -3,4 +3,5 @@
     <string name="extras">Extras</string>
     <string name="about">About</string>
     <string name="home">Home</string>
+    <string name="fullAppName">Crypto Calculator</string>
 </resources>
